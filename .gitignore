@@ -1,3 +1,4 @@
-soundBank.wav
+*.wav
 dataset.xls
 *.DS_Store
+*.txt

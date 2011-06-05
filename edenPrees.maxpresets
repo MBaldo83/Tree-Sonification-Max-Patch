@@ -1,7 +1,7 @@
 {
 	"preset_data" : [ 		{
 			"number" : 1,
-			"data" : [ 5, "obj-80", "number", "int", 4, 5, "obj-74", "number", "int", 3, 5, "obj-65", "number", "int", 2, 5, "obj-53", "number", "int", 1, 5, "obj-83", "number", "int", 2000, 5, "obj-79", "number", "int", 1000, 5, "obj-73", "number", "int", 500, 5, "obj-43", "number", "int", 300 ]
+			"data" : [ 5, "obj-80", "number", "int", 4, 5, "obj-74", "number", "int", 3, 5, "obj-65", "number", "int", 2, 5, "obj-53", "number", "int", 1, 5, "obj-3", "number", "int", 6, 5, "obj-8", "number", "int", 5, 5, "obj-83", "number", "int", 480, 5, "obj-79", "number", "int", 360, 5, "obj-73", "number", "int", 240, 5, "obj-43", "number", "int", 120, 5, "obj-7", "number", "int", 720, 5, "obj-11", "number", "int", 600 ]
 		}
  ]
 }
