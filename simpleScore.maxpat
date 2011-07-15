@@ -1087,7 +1087,8 @@
 
 			}
 , 			{
-				"patchline"[ "obj-54", 0 ],
+				"patchline" :	{
+					"source" : [ "obj-54", 0 ],
 					"destination" : [ "obj-73", 0 ],
 					"hidden" : 1,
 					"midpoints" : [  ]
